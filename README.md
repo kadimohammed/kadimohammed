@@ -59,6 +59,44 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
+
+<details>
+  <summary>📂 Other Projects</summary>
+
+  - **LYPARK MANAGEMENT** (July 2024 - September 2024)  
+    **Role:** Analyst and Developer at Majal Berkane  
+    **Technologies:** Angular, ASP.NET Core, Entity Framework Core  
+    Web application for parking management with location mapping, admin dashboard, and zone management.
+
+  - **Hi Ho Chat** (May 2024 - June 2024)  
+    **Role:** Developer at EHEI Oujda  
+    **Technologies:** .NET 8, Windows Forms, Sockets, Entity Framework Core  
+    Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
+
+  - **LYTRACK Ecosystem** (October 2023 - June 2024)  
+    **Role:** Lead Developer at EHEI Oujda  
+    **Technologies:** Java (Android), ASP.NET Core, Entity Framework Core  
+    Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
+
+  - **Crafter** (November 2023 - January 2024)  
+    **Role:** Developer at EHEI Oujda  
+    **Technologies:** Jakarta EE, MySQL, JavaScript  
+    Online vehicle sales platform with listing, real-time messaging, and responsive design.
+
+  - **Black Bank** (February 2021 - May 2021)  
+    **Role:** Developer at EHEI Oujda  
+    **Technologies:** Qt Creator, C++  
+    Banking system with secure authentication, account management, and automated processes.
+
+  - **APPGSC** (March 2020 - April 2020)  
+    **Role:** Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda  
+    **Technologies:** C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
+    Order management system with client-server architecture and advanced reporting.
+</details>
+
+
+
+
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
 <p align="center">
