@@ -1,90 +1,52 @@
-# 👋 Bienvenue sur mon profil GitHub !
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+KADI+Mohammed;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
-Je suis **KADI Mohammed**, un développeur Full Stack passionné, spécialisé dans le développement avec **.NET Core** et **Angular**. J'aime concevoir des solutions innovantes, travailler sur des architectures scalables, et contribuer à des projets d'équipe. 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;.NET+Core+%26+Angular+Specialist;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <a href="mailto:mohammed.kadi.fg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/kadi-mohammed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mohammedkadi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
 
-## 🎓 **À propos de moi**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadimohammed&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
+</p>
 
-- 🏫 **Formation actuelle** : Diplôme d'ingénieur en Génie Informatique (2022 - 2025)  
-  *Ecole des Hautes Etudes d’Ingénierie, Oujda, Maroc.*
-- 🧑‍💻 **Technicien Spécialisé** : Développement Informatique (2019 - 2022)  
-  *Institut Spécialisé en Technologie Appliquée LAZARET, Oujda, Maroc.*
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
+</p>
 
-## 💼 **Expériences Professionnelles**
+<h2 align="center">🌟 Featured Projects</h2>
 
-### Stagiaire Développeur Full Stack – **Majal Berkane**  
-*(Juil. 2024 – Août 2024)*  
-- 🌟 **Système de gestion de parkings** :
-  - Développement d'une API REST avec **.NET 8**.
-  - Front-end réactif et intuitif avec **Angular**.
-  - Architecture modulaire et scalable.
+<h3>Lytrack Suite</h3>
+- Suite d'applications pour le transport public étudiant
+- Technologies: Java (Android), ASP.NET Core MVC, Entity Framework Core
 
-### Stagiaire Développeur Desktop – **Sutrapub SARL**  
-*(Oct. 2022 – Déc. 2022)*  
-- 📊 **Application de gestion de stock** :
-  - Analyse et conception Merise pour une base de données SQL Server.
-  - Développement d'une application Desktop avec **.NET WinForms**.
+<h3>Crafter</h3>
+- Application de gestion des annonces et ventes de voitures
+- Technologies: Jakarta EE, MySQL
 
----
+<h3>Système de gestion de parkings</h3>
+- Solution complète avec .NET 8 et Angular
+- Architecture moderne et scalable
 
-## 🔥 **Compétences**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadimohammed&theme=radical" alt="GitHub Streak" />
+</p>
 
-### Langages de programmation  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-
-### Frameworks  
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)  
-![Android](https://img.shields.io/badge/Android_Java-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-
-### Outils  
-![Git](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
-
-### Design Patterns et Modélisation  
-- **Design Patterns** : Singleton, Factory, Builder, Proxy, Strategy, Observer.  
-- **Modélisation** : UML, Merise.  
-
----
-
-## 🌟 **Projets Réalisés**
-
-### **Lytrack Suite (PFA)** *(Oct. 2023 – Juin 2024)*  
-**Description** : Une suite d'applications facilitant le suivi et la gestion des transports publics pour étudiants :  
-- **Lytrack Student** : Application mobile pour Android développée en **Java**.  
-- **Lytrack Driver** : Suivi en temps réel pour les conducteurs, gestion des itinéraires.  
-- **Lytrack Management** : Plateforme web pour la gestion des abonnements et campagnes, réalisée avec **ASP.NET Core MVC** et **Entity Framework Core**.
-
-### **Crafter – Application de Gestion de Vente de Voitures** *(Janv. 2024 – Mars 2024)*  
-- Application de gestion des annonces et des ventes avec **Jakarta EE** et **MySQL**.
-
-### **Système de gestion de parkings** *(Juil. 2024 – Août 2024)*  
-- Développement complet d'un système avec **.NET 8** (API) et **Angular** (Front-end).
-
----
-
-## 📈 **Statistiques GitHub**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kadimohammed&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadimohammed&layout=compact&theme=radical)
-
----
-
-## 🌐 **Me retrouver sur**
-
-- [LinkedIn](https://linkedin.com/in/kadi-mohammed)  
-- [GitHub](https://github.com/kadimohammed)  
-- [Email](mailto:mohammed.kadi.fg@gmail.com)
-
----
-
-🎯 Toujours motivé pour relever de nouveaux défis techniques et apprendre davantage ! 🚀
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting!" alt="Typing SVG" />
+</h3>
