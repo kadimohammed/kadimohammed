@@ -61,38 +61,60 @@
 
 
 <details>
-  <summary>📂 Other Projects</summary>
+  <summary style="color: #4CAF50; font-size: 18px; font-weight: bold;">📂 My Projects</summary>
 
-  - **LYPARK MANAGEMENT** (July 2024 - September 2024)  
-    **Role:** Analyst and Developer at Majal Berkane  
-    **Technologies:** Angular, ASP.NET Core, Entity Framework Core  
-    Web application for parking management with location mapping, admin dashboard, and zone management.
+  <div style="color: #007BFF; font-size: 16px; font-weight: bold;">
+    <ul>
+      <li>LYPARK MANAGEMENT</li>
+      <li>Hi Ho Chat</li>
+      <li>LYTRACK Ecosystem</li>
+      <li>Crafter</li>
+      <li>Black Bank</li>
+      <li>APPGSC</li>
+    </ul>
+  </div>
 
-  - **Hi Ho Chat** (May 2024 - June 2024)  
-    **Role:** Developer at EHEI Oujda  
-    **Technologies:** .NET 8, Windows Forms, Sockets, Entity Framework Core  
-    Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
+  <div style="color: #000; background-color: #f4f4f4; padding: 10px;">
+    <ul>
+      <li><strong>LYPARK MANAGEMENT</strong> (July 2024 - September 2024)  
+        <span style="color: #4CAF50;">Role:</span> Analyst and Developer at Majal Berkane  
+        <span style="color: #4CAF50;">Technologies:</span> Angular, ASP.NET Core, Entity Framework Core  
+        Web application for parking management with location mapping, admin dashboard, and zone management.
+      </li>
 
-  - **LYTRACK Ecosystem** (October 2023 - June 2024)  
-    **Role:** Lead Developer at EHEI Oujda  
-    **Technologies:** Java (Android), ASP.NET Core, Entity Framework Core  
-    Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
+      <li><strong>Hi Ho Chat</strong> (May 2024 - June 2024)  
+        <span style="color: #4CAF50;">Role:</span> Developer at EHEI Oujda  
+        <span style="color: #4CAF50;">Technologies:</span> .NET 8, Windows Forms, Sockets, Entity Framework Core  
+        Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
+      </li>
 
-  - **Crafter** (November 2023 - January 2024)  
-    **Role:** Developer at EHEI Oujda  
-    **Technologies:** Jakarta EE, MySQL, JavaScript  
-    Online vehicle sales platform with listing, real-time messaging, and responsive design.
+      <li><strong>LYTRACK Ecosystem</strong> (October 2023 - June 2024)  
+        <span style="color: #4CAF50;">Role:</span> Lead Developer at EHEI Oujda  
+        <span style="color: #4CAF50;">Technologies:</span> Java (Android), ASP.NET Core, Entity Framework Core  
+        Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
+      </li>
 
-  - **Black Bank** (February 2021 - May 2021)  
-    **Role:** Developer at EHEI Oujda  
-    **Technologies:** Qt Creator, C++  
-    Banking system with secure authentication, account management, and automated processes.
+      <li><strong>Crafter</strong> (November 2023 - January 2024)  
+        <span style="color: #4CAF50;">Role:</span> Developer at EHEI Oujda  
+        <span style="color: #4CAF50;">Technologies:</span> Jakarta EE, MySQL, JavaScript  
+        Online vehicle sales platform with listing, real-time messaging, and responsive design.
+      </li>
 
-  - **APPGSC** (March 2020 - April 2020)  
-    **Role:** Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda  
-    **Technologies:** C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
-    Order management system with client-server architecture and advanced reporting.
+      <li><strong>Black Bank</strong> (February 2021 - May 2021)  
+        <span style="color: #4CAF50;">Role:</span> Developer at EHEI Oujda  
+        <span style="color: #4CAF50;">Technologies:</span> Qt Creator, C++  
+        Banking system with secure authentication, account management, and automated processes.
+      </li>
+
+      <li><strong>APPGSC</strong> (March 2020 - April 2020)  
+        <span style="color: #4CAF50;">Role:</span> Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda  
+        <span style="color: #4CAF50;">Technologies:</span> C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
+        Order management system with client-server architecture and advanced reporting.
+      </li>
+    </ul>
+  </div>
 </details>
+
 
 
 
