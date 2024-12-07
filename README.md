@@ -60,59 +60,59 @@
 </p>
 
 
-<details>
-  <summary style="color: #4CAF50; font-size: 18px; font-weight: bold;">📂 My Projects</summary>
+<h2 style="color: #4CAF50;">📂 My Projects</h2>
 
-  <div style="color: #007BFF; font-size: 16px; font-weight: bold;">
-    <ul>
-      <li>LYPARK MANAGEMENT</li>
-      <li>Hi Ho Chat</li>
-      <li>LYTRACK Ecosystem</li>
-      <li>Crafter</li>
-      <li>Black Bank</li>
-      <li>APPGSC</li>
-    </ul>
-  </div>
+<div style="color: #007BFF; font-size: 16px; font-weight: bold;">
+  <ul>
+    <li><a href="#lypark" style="color: #007BFF; text-decoration: none;">LYPARK MANAGEMENT</a></li>
+    <li><a href="#hihochat" style="color: #007BFF; text-decoration: none;">Hi Ho Chat</a></li>
+    <li><a href="#lytrack" style="color: #007BFF; text-decoration: none;">LYTRACK Ecosystem</a></li>
+    <li><a href="#crafter" style="color: #007BFF; text-decoration: none;">Crafter</a></li>
+    <li><a href="#blackbank" style="color: #007BFF; text-decoration: none;">Black Bank</a></li>
+    <li><a href="#appgsc" style="color: #007BFF; text-decoration: none;">APPGSC</a></li>
+  </ul>
+</div>
 
-  <div style="color: #000; background-color: #f4f4f4; padding: 10px;">
-    <ul>
-      <li><strong>LYPARK MANAGEMENT</strong> (July 2024 - September 2024)  
-        <span style="color: #4CAF50;">Role:</span> Analyst and Developer at Majal Berkane  
-        <span style="color: #4CAF50;">Technologies:</span> Angular, ASP.NET Core, Entity Framework Core  
-        Web application for parking management with location mapping, admin dashboard, and zone management.
-      </li>
+<details id="lypark">
+  <summary style="font-size: 18px; font-weight: bold;">LYPARK MANAGEMENT</summary>
+  <p><strong>Role:</strong> Analyst and Developer at Majal Berkane</p>
+  <p><strong>Technologies:</strong> Angular, ASP.NET Core, Entity Framework Core</p>
+  <p>Web application for parking management with location mapping, admin dashboard, and zone management.</p>
+</details>
 
-      <li><strong>Hi Ho Chat</strong> (May 2024 - June 2024)  
-        <span style="color: #4CAF50;">Role:</span> Developer at EHEI Oujda  
-        <span style="color: #4CAF50;">Technologies:</span> .NET 8, Windows Forms, Sockets, Entity Framework Core  
-        Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
-      </li>
+<details id="hihochat">
+  <summary style="font-size: 18px; font-weight: bold;">Hi Ho Chat</summary>
+  <p><strong>Role:</strong> Developer at EHEI Oujda</p>
+  <p><strong>Technologies:</strong> .NET 8, Windows Forms, Sockets, Entity Framework Core</p>
+  <p>Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.</p>
+</details>
 
-      <li><strong>LYTRACK Ecosystem</strong> (October 2023 - June 2024)  
-        <span style="color: #4CAF50;">Role:</span> Lead Developer at EHEI Oujda  
-        <span style="color: #4CAF50;">Technologies:</span> Java (Android), ASP.NET Core, Entity Framework Core  
-        Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
-      </li>
+<details id="lytrack">
+  <summary style="font-size: 18px; font-weight: bold;">LYTRACK Ecosystem</summary>
+  <p><strong>Role:</strong> Lead Developer at EHEI Oujda</p>
+  <p><strong>Technologies:</strong> Java (Android), ASP.NET Core, Entity Framework Core</p>
+  <p>Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.</p>
+</details>
 
-      <li><strong>Crafter</strong> (November 2023 - January 2024)  
-        <span style="color: #4CAF50;">Role:</span> Developer at EHEI Oujda  
-        <span style="color: #4CAF50;">Technologies:</span> Jakarta EE, MySQL, JavaScript  
-        Online vehicle sales platform with listing, real-time messaging, and responsive design.
-      </li>
+<details id="crafter">
+  <summary style="font-size: 18px; font-weight: bold;">Crafter</summary>
+  <p><strong>Role:</strong> Developer at EHEI Oujda</p>
+  <p><strong>Technologies:</strong> Jakarta EE, MySQL, JavaScript</p>
+  <p>Online vehicle sales platform with listing, real-time messaging, and responsive design.</p>
+</details>
 
-      <li><strong>Black Bank</strong> (February 2021 - May 2021)  
-        <span style="color: #4CAF50;">Role:</span> Developer at EHEI Oujda  
-        <span style="color: #4CAF50;">Technologies:</span> Qt Creator, C++  
-        Banking system with secure authentication, account management, and automated processes.
-      </li>
+<details id="blackbank">
+  <summary style="font-size: 18px; font-weight: bold;">Black Bank</summary>
+  <p><strong>Role:</strong> Developer at EHEI Oujda</p>
+  <p><strong>Technologies:</strong> Qt Creator, C++</p>
+  <p>Banking system with secure authentication, account management, and automated processes.</p>
+</details>
 
-      <li><strong>APPGSC</strong> (March 2020 - April 2020)  
-        <span style="color: #4CAF50;">Role:</span> Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda  
-        <span style="color: #4CAF50;">Technologies:</span> C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
-        Order management system with client-server architecture and advanced reporting.
-      </li>
-    </ul>
-  </div>
+<details id="appgsc">
+  <summary style="font-size: 18px; font-weight: bold;">APPGSC</summary>
+  <p><strong>Role:</strong> Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda</p>
+  <p><strong>Technologies:</strong> C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports</p>
+  <p>Order management system with client-server architecture and advanced reporting.</p>
 </details>
 
 
