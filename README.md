@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/Phone-+212708083110-green?style=for-the-badge" alt="Phone">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kadimohammed&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
-</p>
+</p> -->
 
 <h2 align="center">🎓 Education</h2>
 
@@ -59,11 +59,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
 <p align="center">
-  <a href="https://www.coursera.org/share/dea4284822696cd44e429961e2b590fc">
+  <a href="https://www.coursera.org/account/accomplishments/verify/X7OAARNNS1TN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">
     <img src="https://img.shields.io/badge/Coursera-xUnit%20Testing%20for%20.NET%20Applications-brightgreen?style=for-the-badge" alt="Coursera: xUnit Testing for .NET Applications">
   </a>
   <br>  
@@ -87,7 +86,7 @@
 </p>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/certifications/foundational-csharp-with-microsoft/">
+  <a href="https://www.freecodecamp.org/certification/fcccfba1758-e307-448f-9d9e-e2eb39919718/foundational-c-sharp-with-microsoft">
     <img src="https://img.shields.io/badge/Microsoft-Foundational%20C%23%20with%20Microsoft-0078D4?style=for-the-badge" alt="Microsoft: Foundational C# with Microsoft">
   </a>
   <br>
@@ -95,9 +94,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nasa.gov/galactic-problem-solver">
-    <img src="https://img.shields.io/badge/NASA-Galactic%20Problem%20Solver-darkblue?style=for-the-badge" alt="NASA: Galactic Problem Solver">
-  </a>
+  <img src="https://img.shields.io/badge/NASA-Galactic%20Problem%20Solver-darkblue?style=for-the-badge" alt="NASA: Galactic Problem Solver">
   <br>
   <strong>Issued on:</strong> October 2023
 </p>
