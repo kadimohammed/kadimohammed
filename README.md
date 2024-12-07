@@ -23,7 +23,7 @@
   École des Hautes Études d'Ingénierie, Oujda, Morocco
 - **Specialized Technician Degree in Computer Development** (2019 - 2022)  
   Institut Spécialisé en Technologie Appliquée LAZARET, Oujda, Morocco
-- **Baccalaureate - Life and Earth Sciences** (2016 - 2017)  
+- **Baccalaureate - Life and Earth Sciences** (2018 - 2019)  
   Lycée Prince Moulay Rachid, Figuig, Morocco
 
 
@@ -63,48 +63,42 @@
 
 ### LYPARK MANAGEMENT
 <details>
-  <summary><strong>LYPARK MANAGEMENT (July 2024 - September 2024)</strong></summary>
-  **Role:** Analyst and Developer at Majal Berkane  
+  <summary><strong>Analyst and Developer at Majal Berkane  (July 2024 - September 2024)</strong></summary>
   **Technologies:** Angular, ASP.NET Core, Entity Framework Core  
   Web application for parking management with location mapping, admin dashboard, and zone management.
 </details>
 
 ### Hi Ho Chat
 <details>
-  <summary><strong>Hi Ho Chat (May 2024 - June 2024)</strong></summary>
-  **Role:** Developer at EHEI Oujda  
+  <summary><strong>Lead Developer at EHEI Oujda   (May 2024 - June 2024)</strong></summary>
   **Technologies:** .NET 8, Windows Forms, Sockets, Entity Framework Core  
   Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
 </details>
 
 ### LYTRACK Ecosystem
 <details>
-  <summary><strong>LYTRACK Ecosystem (October 2023 - June 2024)</strong></summary>
-  **Role:** Lead Developer at EHEI Oujda  
+  <summary><strong>Lead Developer at EHEI Oujda   (October 2023 - June 2024)</strong></summary>
   **Technologies:** Java (Android), ASP.NET Core, Entity Framework Core  
   Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
 </details>
 
 ### Crafter
 <details>
-  <summary><strong>Crafter (November 2023 - January 2024)</strong></summary>
-  **Role:** Developer at EHEI Oujda  
+  <summary><strong>Developer at EHEI Oujda   (November 2023 - January 2024)</strong></summary>
   **Technologies:** Jakarta EE, MySQL, JavaScript  
   Online vehicle sales platform with listing, real-time messaging, and responsive design.
 </details>
 
 ### Black Bank
 <details>
-  <summary><strong>Black Bank (February 2021 - May 2021)</strong></summary>
-  **Role:** Developer at EHEI Oujda  
+  <summary><strong>Developer at EHEI Oujda  (February 2021 - May 2021)</strong></summary>
   **Technologies:** Qt Creator, C++  
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
 ### APPGSC
 <details>
-  <summary><strong>APPGSC (March 2020 - April 2020)</strong></summary>
-  **Role:** Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda  
+  <summary><strong>Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda   (March 2020 - April 2020)</strong></summary>
   **Technologies:** C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
   Order management system with client-server architecture and advanced reporting.
 </details>
