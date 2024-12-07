@@ -59,60 +59,54 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
+## 📂 My Projects
 
-<h2 style="color: #4CAF50;">📂 My Projects</h2>
-
-<div style="color: #007BFF; font-size: 16px; font-weight: bold;">
-  <ul>
-    <li><a href="#lypark" style="color: #007BFF; text-decoration: none;">LYPARK MANAGEMENT</a></li>
-    <li><a href="#hihochat" style="color: #007BFF; text-decoration: none;">Hi Ho Chat</a></li>
-    <li><a href="#lytrack" style="color: #007BFF; text-decoration: none;">LYTRACK Ecosystem</a></li>
-    <li><a href="#crafter" style="color: #007BFF; text-decoration: none;">Crafter</a></li>
-    <li><a href="#blackbank" style="color: #007BFF; text-decoration: none;">Black Bank</a></li>
-    <li><a href="#appgsc" style="color: #007BFF; text-decoration: none;">APPGSC</a></li>
-  </ul>
-</div>
-
-<details id="lypark">
-  <summary style="font-size: 18px; font-weight: bold;">LYPARK MANAGEMENT</summary>
-  <p><strong>Role:</strong> Analyst and Developer at Majal Berkane</p>
-  <p><strong>Technologies:</strong> Angular, ASP.NET Core, Entity Framework Core</p>
-  <p>Web application for parking management with location mapping, admin dashboard, and zone management.</p>
+### LYPARK MANAGEMENT
+<details>
+  <summary><strong>LYPARK MANAGEMENT (July 2024 - September 2024)</strong></summary>
+  **Role:** Analyst and Developer at Majal Berkane  
+  **Technologies:** Angular, ASP.NET Core, Entity Framework Core  
+  Web application for parking management with location mapping, admin dashboard, and zone management.
 </details>
 
-<details id="hihochat">
-  <summary style="font-size: 18px; font-weight: bold;">Hi Ho Chat</summary>
-  <p><strong>Role:</strong> Developer at EHEI Oujda</p>
-  <p><strong>Technologies:</strong> .NET 8, Windows Forms, Sockets, Entity Framework Core</p>
-  <p>Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.</p>
+### Hi Ho Chat
+<details>
+  <summary><strong>Hi Ho Chat (May 2024 - June 2024)</strong></summary>
+  **Role:** Developer at EHEI Oujda  
+  **Technologies:** .NET 8, Windows Forms, Sockets, Entity Framework Core  
+  Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
 </details>
 
-<details id="lytrack">
-  <summary style="font-size: 18px; font-weight: bold;">LYTRACK Ecosystem</summary>
-  <p><strong>Role:</strong> Lead Developer at EHEI Oujda</p>
-  <p><strong>Technologies:</strong> Java (Android), ASP.NET Core, Entity Framework Core</p>
-  <p>Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.</p>
+### LYTRACK Ecosystem
+<details>
+  <summary><strong>LYTRACK Ecosystem (October 2023 - June 2024)</strong></summary>
+  **Role:** Lead Developer at EHEI Oujda  
+  **Technologies:** Java (Android), ASP.NET Core, Entity Framework Core  
+  Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
 </details>
 
-<details id="crafter">
-  <summary style="font-size: 18px; font-weight: bold;">Crafter</summary>
-  <p><strong>Role:</strong> Developer at EHEI Oujda</p>
-  <p><strong>Technologies:</strong> Jakarta EE, MySQL, JavaScript</p>
-  <p>Online vehicle sales platform with listing, real-time messaging, and responsive design.</p>
+### Crafter
+<details>
+  <summary><strong>Crafter (November 2023 - January 2024)</strong></summary>
+  **Role:** Developer at EHEI Oujda  
+  **Technologies:** Jakarta EE, MySQL, JavaScript  
+  Online vehicle sales platform with listing, real-time messaging, and responsive design.
 </details>
 
-<details id="blackbank">
-  <summary style="font-size: 18px; font-weight: bold;">Black Bank</summary>
-  <p><strong>Role:</strong> Developer at EHEI Oujda</p>
-  <p><strong>Technologies:</strong> Qt Creator, C++</p>
-  <p>Banking system with secure authentication, account management, and automated processes.</p>
+### Black Bank
+<details>
+  <summary><strong>Black Bank (February 2021 - May 2021)</strong></summary>
+  **Role:** Developer at EHEI Oujda  
+  **Technologies:** Qt Creator, C++  
+  Banking system with secure authentication, account management, and automated processes.
 </details>
 
-<details id="appgsc">
-  <summary style="font-size: 18px; font-weight: bold;">APPGSC</summary>
-  <p><strong>Role:</strong> Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda</p>
-  <p><strong>Technologies:</strong> C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports</p>
-  <p>Order management system with client-server architecture and advanced reporting.</p>
+### APPGSC
+<details>
+  <summary><strong>APPGSC (March 2020 - April 2020)</strong></summary>
+  **Role:** Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda  
+  **Technologies:** C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
+  Order management system with client-server architecture and advanced reporting.
 </details>
 
 
