@@ -63,46 +63,46 @@
 
 ## 📂 My Projects
 
-### <span style="color: #4CAF50;">LYPARK MANAGEMENT</span>
+### 🟢 LYPARK MANAGEMENT
 <details>
-  <summary><strong style="color: #4CAF50;">Analyst and Developer at Majal Berkane (July 2024 - September 2024)</strong></summary>
-  <p><strong>Technologies:</strong> Angular, ASP.NET Core, Entity Framework Core</p>
-  <p>Web application for parking management with location mapping, admin dashboard, and zone management.</p>
+  <summary><strong>Analyst and Developer at Majal Berkane (July 2024 - September 2024)</strong></summary>
+  **Technologies:** Angular, ASP.NET Core, Entity Framework Core  
+  Web application for parking management with location mapping, admin dashboard, and zone management.
 </details>
 
-### <span style="color: #2196F3;">Hi Ho Chat</span>
+### 🔵 Hi Ho Chat
 <details>
-  <summary><strong style="color: #2196F3;">Lead Developer at EHEI Oujda (May 2024 - June 2024)</strong></summary>
-  <p><strong>Technologies:</strong> .NET 8, Windows Forms, Sockets, Entity Framework Core</p>
-  <p>Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.</p>
+  <summary><strong>Lead Developer at EHEI Oujda (May 2024 - June 2024)</strong></summary>
+  **Technologies:** .NET 8, Windows Forms, Sockets, Entity Framework Core  
+  Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
 </details>
 
-### <span style="color: #FFC107;">LYTRACK Ecosystem</span>
+### 🟡 LYTRACK Ecosystem
 <details>
-  <summary><strong style="color: #FFC107;">Lead Developer at EHEI Oujda (October 2023 - June 2024)</strong></summary>
-  <p><strong>Technologies:</strong> Java (Android), ASP.NET Core, Entity Framework Core</p>
-  <p>Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.</p>
+  <summary><strong>Lead Developer at EHEI Oujda (October 2023 - June 2024)</strong></summary>
+  **Technologies:** Java (Android), ASP.NET Core, Entity Framework Core  
+  Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
 </details>
 
-### <span style="color: #FF5722;">Crafter</span>
+### 🔴 Crafter
 <details>
-  <summary><strong style="color: #FF5722;">Developer at EHEI Oujda (November 2023 - January 2024)</strong></summary>
-  <p><strong>Technologies:</strong> Jakarta EE, MySQL, JavaScript</p>
-  <p>Online vehicle sales platform with listing, real-time messaging, and responsive design.</p>
+  <summary><strong>Developer at EHEI Oujda (November 2023 - January 2024)</strong></summary>
+  **Technologies:** Jakarta EE, MySQL, JavaScript  
+  Online vehicle sales platform with listing, real-time messaging, and responsive design.
 </details>
 
-### <span style="color: #9C27B0;">Black Bank</span>
+### 🟣 Black Bank
 <details>
-  <summary><strong style="color: #9C27B0;">Developer at EHEI Oujda (February 2021 - May 2021)</strong></summary>
-  <p><strong>Technologies:</strong> Qt Creator, C++</p>
-  <p>Banking system with secure authentication, account management, and automated processes.</p>
+  <summary><strong>Developer at EHEI Oujda (February 2021 - May 2021)</strong></summary>
+  **Technologies:** Qt Creator, C++  
+  Banking system with secure authentication, account management, and automated processes.
 </details>
 
-### <span style="color: #607D8B;">APPGSC</span>
+### 🟤 APPGSC
 <details>
-  <summary><strong style="color: #607D8B;">Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda (March 2020 - April 2020)</strong></summary>
-  <p><strong>Technologies:</strong> C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports</p>
-  <p>Order management system with client-server architecture and advanced reporting.</p>
+  <summary><strong>Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda (March 2020 - April 2020)</strong></summary>
+  **Technologies:** C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports  
+  Order management system with client-server architecture and advanced reporting.
 </details>
 
 
