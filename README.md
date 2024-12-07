@@ -52,23 +52,23 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdosql&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadimohammed&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdosql&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kadimohammed&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdosql&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadimohammed&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdosql&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kadimohammed&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 
