@@ -63,45 +63,45 @@
 
 ## 📂 My Projects
 
-### <span style="color: green;">LYPARK MANAGEMENT</span>
+### 🟢 LYPARK MANAGEMENT
 <details>
   <summary><strong>Analyst and Developer at Majal Berkane (July 2024 - September 2024)</strong></summary>
-  <strong>Technologies:</strong> <strong>Angular, ASP.NET Core, Entity Framework Core</strong>  
+  **Technologies:** **Angular, ASP.NET Core, Entity Framework Core**  
   Web application for parking management with location mapping, admin dashboard, and zone management.
 </details>
 
-### <span style="color: blue;">Hi Ho Chat</span>
+### 🔵 Hi Ho Chat
 <details>
   <summary><strong>Lead Developer at EHEI Oujda (May 2024 - June 2024)</strong></summary>
-  <strong>Technologies:</strong> <strong>.NET 8, Windows Forms, Sockets, Entity Framework Core</strong>  
+  Technologies: .NET 8, Windows Forms, Sockets, Entity Framework Core  
   Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
 </details>
 
-### <span style="color: gold;">LYTRACK Ecosystem</span>
+### 🟡 LYTRACK Ecosystem
 <details>
   <summary><strong>Lead Developer at EHEI Oujda (October 2023 - June 2024)</strong></summary>
-  <strong>Technologies:</strong> <strong>Java (Android), ASP.NET Core, Entity Framework Core</strong>  
+  Technologies: Java (Android), ASP.NET Core, Entity Framework Core  
   Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
 </details>
 
-### <span style="color: red;">Crafter</span>
+### 🔴 Crafter
 <details>
   <summary><strong>Developer at EHEI Oujda (November 2023 - January 2024)</strong></summary>
-  <strong>Technologies:</strong> <strong>Jakarta EE, MySQL, JavaScript</strong>  
+  Technologies: Jakarta EE, MySQL, JavaScript
   Online vehicle sales platform with listing, real-time messaging, and responsive design.
 </details>
 
-### <span style="color: purple;">Black Bank</span>
+### 🟣 Black Bank
 <details>
   <summary><strong>Developer at EHEI Oujda (February 2021 - May 2021)</strong></summary>
-  <strong>Technologies:</strong> <strong>Qt Creator, C++</strong>  
+  Technologies: Qt Creator, C++  
   Banking system with secure authentication, account management, and automated processes.
 </details>
 
-### <span style="color: brown;">APPGSC</span>
+### 🟤 APPGSC
 <details>
   <summary><strong>Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda (March 2020 - April 2020)</strong></summary>
-  <strong>Technologies:</strong> <strong>C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports</strong>  
+  Technologies: C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports
   Order management system with client-server architecture and advanced reporting.
 </details>
 
