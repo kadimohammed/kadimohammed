@@ -10,7 +10,7 @@
   <a href="mailto:mohammed.kadi.fg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/kadi-mohammed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://mohammedkadi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Phone-+212708083110-green?style=for-the-badge" alt="Phone">
+  <img src="https://img.shields.io/badge/Phone-+212682826899-green?style=for-the-badge" alt="Phone">
 </p>
 
 <!-- <p align="center">
@@ -21,7 +21,7 @@
 
 - **State Engineering Degree - Computer Science** (2022 - 2025)  
   École des Hautes Études d'Ingénierie, Oujda, Morocco
-- **Specialized Technician Degree in Computer Development** (2019 - 2022)  
+- **Specialized Technician Degree in Computer Development** (2020 - 2022)  
   Institut Spécialisé en Technologie Appliquée LAZARET, Oujda, Morocco
 - **Baccalaureate - Life and Earth Sciences** (2018 - 2019)  
   Lycée Prince Moulay Rachid, Figuig, Morocco
