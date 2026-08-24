@@ -61,70 +61,25 @@
 
 
 
-## 📂 My Projects
-
-### 🟢 LYPARK MANAGEMENT
-<details>
-  <summary><strong>Analyst and Developer at Majal Berkane (July 2024 - September 2024)</strong></summary>
-  **Technologies:** **Angular, ASP.NET Core, Entity Framework Core**  
-  Web application for parking management with location mapping, admin dashboard, and zone management.
-</details>
-
-### 🔵 Hi Ho Chat
-<details>
-  <summary><strong>Lead Developer at EHEI Oujda (May 2024 - June 2024)</strong></summary>
-  Technologies: .NET 8, Windows Forms, Sockets, Entity Framework Core  
-  Real-time messaging app with TCP sockets, UDP audio calls, and user profile management.
-</details>
-
-### 🟡 LYTRACK Ecosystem
-<details>
-  <summary><strong>Lead Developer at EHEI Oujda (October 2023 - June 2024)</strong></summary>
-  Technologies: Java (Android), ASP.NET Core, Entity Framework Core  
-  Integrated transportation management system with multiple apps for real-time tracking, subscription validation, and bus management.
-</details>
-
-### 🔴 Crafter
-<details>
-  <summary><strong>Developer at EHEI Oujda (November 2023 - January 2024)</strong></summary>
-  Technologies: Jakarta EE, MySQL, JavaScript
-  Online vehicle sales platform with listing, real-time messaging, and responsive design.
-</details>
-
-### 🟣 Black Bank
-<details>
-  <summary><strong>Developer at EHEI Oujda (February 2021 - May 2021)</strong></summary>
-  Technologies: Qt Creator, C++  
-  Banking system with secure authentication, account management, and automated processes.
-</details>
-
-### 🟤 APPGSC
-<details>
-  <summary><strong>Analyst Developer at Institut Specialisé de Technologie Appliquée Lazaret Oujda (March 2020 - April 2020)</strong></summary>
-  Technologies: C#, Windows Forms, SQL Server, ADO.NET, Crystal Reports
-  Order management system with client-server architecture and advanced reporting.
-</details>
-
-
-
-
 
 <h2 align="center">🎓 Licenses and Certifications</h2>
 
+
+
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/verify/X7OAARNNS1TN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">
-    <img src="https://img.shields.io/badge/Coursera-xUnit%20Testing%20for%20.NET%20Applications-brightgreen?style=for-the-badge" alt="Coursera: xUnit Testing for .NET Applications">
+  <a href="https://learn.microsoft.com/en-us/users/mokadi-2028/credentials/certification/azure-administrator?tab=credentials-tab">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--104%20Azure%20Administrator%20Associate-blue?style=for-the-badge" alt="Microsoft: AZ-104 Azure Administrator Associate">
   </a>
-  <br>  
-  <strong>Issued on:</strong> August 2024
+  <br>
+  <strong>Issued on:</strong> July 2026
 </p>
 
 <p align="center">
-  <a href="https://www.udemy.com/certificate/UC-5a1a2965-f342-4f7c-9820-d3da70dd5094/">
-    <img src="https://img.shields.io/badge/Udemy-Learn%20.Net%20C%23%2C%20MySQL%20and%20JavaScript%20for%20Web%20Developers-blue?style=for-the-badge" alt="Udemy: Learn .Net C#, MySQL and JavaScript for Web Developers">
+  <a href="https://learn.microsoft.com/en-us/users/mokadi-2028/credentials/certification/azure-fundamentals?tab=credentials-tab">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Microsoft%20Azure%20Fundamentals-blue?style=for-the-badge" alt="Microsoft: AZ-900 Microsoft Azure Fundamentals">
   </a>
   <br>
-  <strong>Issued on:</strong> July 2024
+  <strong>Issued on:</strong> February 2026
 </p>
 
 <p align="center">
@@ -143,12 +98,6 @@
   <strong>Issued on:</strong> March 2024
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NASA-Galactic%20Problem%20Solver-darkblue?style=for-the-badge" alt="NASA: Galactic Problem Solver">
-  <br>
-  <strong>Issued on:</strong> October 2023
-</p>
-
 
 
 <h2 align="center">📈 Contribution Graph</h2>
@@ -161,10 +110,6 @@
   <img src="https://komarev.com/ghpvc/?username=kadimohammed&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadimohammed&theme=radical" alt="GitHub Streak" />
-</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+growing.;Thank+you+for+visiting!" alt="Typing SVG" />
